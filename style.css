@@ -1,0 +1,49 @@
+body{
+    font-family:font-family: "Poppins", sans-serif;
+    margin: 0px;
+}
+.top-bgImg{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.half-width{
+    width:40%;
+    float: left;
+    padding-top:px;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top:5%;
+
+}
+#pain{
+    
+    padding-top:150px;
+}
+.highliter{
+    color: turquoise;
+    font-weight: 900;
+}
+
+section{
+   /* border: 2px solid black;*/
+    height: 500px;
+    padding:100px;
+}
+.half-width img{
+    width: 100%;
+    padding-bottom:10px;
+    
+
+   
+}
+.btn{
+    color:white;
+    text-decoration: none;
+    background-image: linear-gradient(180deg, rgb(202, 94, 31) , rgb(204, 40, 62));
+    
+    padding: 10px 20px;
+    border-radius: 5%;
+    font-weight: 800;
+}
