@@ -61,3 +61,88 @@ section{
 .special-pad{
     padding-top:60px;
 }
+/*third part*/
+section .latest-work-bg{
+    height: 400px;
+}
+.latest-work-bg{
+    
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+   
+}
+
+.part-three{
+    text-align: center;
+}
+.one-third-width{
+    width:25%;
+    float: left;
+    padding-top:3%;
+    margin-left: %;
+    padding-left: 5%;
+    margin-top:2%;
+    margin-botton:0px;
+    padding-bottom:0%;
+}
+.one-third-width img{
+    width:100%;
+}
+
+.gh {
+    margin: 0%;
+    padding:0px;
+    background-image: url("personal-website/footer-bg.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.gh{
+    height: 25%;
+    width:100%;
+}
+.ph{
+    padding-top: 70px;
+    text-align: center;
+}
+.ph h1{
+    
+    font-weight: 900;
+    padding:10px;
+}
+.ph h6{
+    color: darkgray;
+}
+.ph p{
+    padding:10px;
+    padding-left: 60px;
+}
+.op{
+    border: 2px solid orange;
+    margin: auto;
+  width: 50%;
+  background-image: linear-gradient(180deg,tomato,orange);
+  padding: 10px;
+  border-radius: 0.5%;
+}
+.op p{
+
+    color: white;
+    text-align: center;
+}
+.op a{
+    font-size:40px ;
+   padding-left: 100px;
+    color: white;
+    text-decoration: none;
+     align: center;
+}
+.go{
+    width: 100%;
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+    color: silver;
+}
