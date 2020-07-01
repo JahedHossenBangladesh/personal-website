@@ -47,3 +47,17 @@ section{
     border-radius: 5%;
     font-weight: 800;
 }
+/*biography part*/
+#biography-bg{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.another-width{
+    padding-left:40px;
+    
+}
+.special-pad{
+    padding-top:60px;
+}
